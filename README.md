@@ -1,21 +1,14 @@
 <div>
-  
-  <!--Header-->
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Welcome%20to%20my%20page%20👀)
-  
 </div>
 
 <div>
   <!--Body-->
   
   ## 👀 About Me
-  #### :raising_hand: I am a man who lives in South Korea.<br/>
   #### :mortar_board: MultiMedia Software Engineering, Dongguk University(DGU)
   <br/>
-  <br/>
   
-  ## 🧱 Tech Stack
-  ### Language
+  ### :computer: Language
   <!--Python-->
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   <!--C-->
@@ -26,7 +19,7 @@
   <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/>
   <br/>
   
-  ### Game Engine
+  ### :video_game: Game Engine
   <!--Unity-->
   <img src="https://img.shields.io/badge/unity-000000?style=flat-square&logo=unity&logoColor=white"/>
   <!--Unreal Engine-->
@@ -39,7 +32,14 @@
   <!--Epic Games-->
   <img src="https://img.shields.io/badge/Epic Games-313131?style=flat-square&logo=Epic Games&logoColor=white"/>
   <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white"/>
-  
+
+  ### :incoming_envelope: CONTACTS
+   <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+   
+  #### justin8863@gmail.com
+   <img src="https://img.shields.io/badge/naver-03C75A?style=flat-square&logo=naver&logoColor=white"/>
+   
+  #### justin8863@naver.com
   <br/>
   <br/>
   
