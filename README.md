@@ -27,13 +27,6 @@
   <img src="https://img.shields.io/badge/Steam-000000?style=flat-square&logo=Steam&logoColor=white"/>
   <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white"/>
 
-  ### :incoming_envelope: CONTACTS
-   <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
-   
-  #### justin8863@gmail.com
-   <img src="https://img.shields.io/badge/naver-03C75A?style=flat-square&logo=naver&logoColor=white"/>
-   
-  #### justin8863@naver.com
   <br/>
   <br/>
   
