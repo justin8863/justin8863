@@ -21,7 +21,7 @@
   <!--Unity-->
   <img src="https://img.shields.io/badge/unity-000000?style=flat-square&logo=unity&logoColor=white"/>
 
-  <img src="https://img.shields.io/badge/unreal-000000?style=flat-square&logo=unity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Unreal-000000?style=flat-square&logo=Unreal&logoColor=white"/>
   <br/>
   
   ### ETC
