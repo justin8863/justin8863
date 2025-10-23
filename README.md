@@ -9,23 +9,23 @@
   <br/>
   
   ### :computer: Language
-  <!--Python-->
+
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-  <!--C-->
+
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
-  <!--C++-->
+
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
   <br/>
   
   ### :video_game: Game Engine
-  <!--Unity-->
+
   <img src="https://img.shields.io/badge/unity-000000?style=flat-square&logo=unity&logoColor=white"/>
 
   <img src="https://img.shields.io/badge/Unrealengine-000000?style=flat-square&logo=unrealengine&logoColor=white"/>
   <br/>
   
   ### ETC
-  <!--Steam-->
+
   <img src="https://img.shields.io/badge/Steam-000000?style=flat-square&logo=Steam&logoColor=white"/>
   <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white"/>
 
